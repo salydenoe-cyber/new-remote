@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sony IR Remote</string>
+    <string name="model_title">SONY AV SYSTEM</string>
+    <string name="model_subtitle">RM-ADU162 · HBD-DZ950 / DAV-DZ950</string>
+    <string name="ir_unavailable">این دستگاه پورت IR داخلی ندارد؛ فقط کدهای کنترل نمایش داده می‌شوند.</string>
+    <string name="ir_ready">فرستنده IR آماده است (Sony SIRC 12/15/20-bit).</string>
+</resources>
